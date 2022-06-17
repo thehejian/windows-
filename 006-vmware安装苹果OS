@@ -1,0 +1,19 @@
+1.解锁 Auto-Unlocker
+https://github.com/paolo-projects/auto-unlocker/releases
+
+2.MacOs big surjingx
+https://www.freedidi.com/go.php?url=aHR0cHM6Ly9kb3dubG9hZDIzNDEubWVkaWFmaXJlLmNvbS9pejF5MWI4d2FsZmcvZGJmb2Q5dTVxOWlpOW5kL21hY09TK0JpZytTdXIrMTEuMC4xKyUyODIwQjI5JTI5Lmlzbw==
+
+参考
+https://www.freedidi.com/5257.html
+
+解压-右键以管理员身份打开-path（路径选对）
+重启vmware，客户机操作系统就有 Apple Mac OS X（M）
+使用磁盘工具，修复或抹掉磁盘
+  左侧树状，第一个，VMware Virtual SATA Hard Driver，点击右上角的抹掉
+左上角，磁盘工具-退出磁盘工具
+安装完成后，分辨率很低。先关机
+vmware侧边-显示器-指定显示器设置
+
+重新启动mac，
+vmware页面，右键-安装VMware Tools（如果不行，进入mac桌面，弹出光驱）
