@@ -1,0 +1,19 @@
+1.win+i 设置中心-辅助功能-视觉效果-透明效果关闭，动画效果关闭
+
+2.win+i 设置中心 系统-系统信息（最下面）-高级系统设置
+  性能-视觉效果-设置-调整为最佳性能
+  性能-高级-虚拟内存-取消勾选（自动关联所有驱动器的分页文件大小）-自定义大小（物理内存的1.5到3倍即可）
+  
+3.文件资源管理器-查看-显示-项目复选框
+
+4.win+s 搜索 启用或关闭windows功能-勾选.NET Framework3.5，更新net环境包
+
+5.极客卸载工具
+Geek Uninstaller
+https://www.freedidi.com/go.php?url=aHR0cHM6Ly9nZWVrdW5pbnN0YWxsZXIuY29tLw==
+
+6.win自带老旧应用或服务卸载
+win+s 搜索powershell
+iwr -useb https://git.io/debloat | iex
+    弹窗中选择-CUSTOMISE BLOCKLIST 自定义卸载（使用默认卸载即可）
+    REMOVE BLOATWARE WITH CUSTOMISE BLOCKLIST 卸载自定义列表的软件
