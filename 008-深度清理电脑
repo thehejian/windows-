@@ -1,0 +1,15 @@
+垃圾清理
+win+s %temp% 打开临时文件夹C:\Users\HWX430~1\AppData\Local\Temp（每人电脑不一样），内容全部删除
+C:\Windows\SoftwareDistribution\Download 删除这个临时下载文件夹内容
+win+r 输入 prefetch 进入C:\Windows\Prefetch 删除所有内容
+
+微软商店优化
+win+r cmd 管理员身份运行；
+  重置微软商店：命令提示符输入：WSreset.exe
+  刷新dns缓存：ipconfig /flushdns
+
+文件资源管理器-c盘右键-属性-磁盘清理-清理系统文件，清理完成后；再清理一次，会清楚系统升级文件
+
+磁盘大文件占用扫码软件
+Space Sniffer
+https://www.freedidi.com/go.php?url=aHR0cDovL3d3dy51ZGVyem8uaXQvbWFpbl9wcm9kdWN0cy9zcGFjZV9zbmlmZmVyLw==
