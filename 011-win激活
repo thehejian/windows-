@@ -1,0 +1,62 @@
+CMD上运行命令KMS命令
+
+1 搜索cmd，以管理员身份运行
+2 安装密钥：
+slmgr /ipk xxxx-xxxxx-xxxxx-xxxxx-xxxxx      (x是需要安装的密钥）然后按下回车键。
+
+win10/11专业版永久激活码:
+
+8G7XN-V7YWC-W8RPC-V73KB-YWRDB
+
+C38W9-KWNBH-M4HWH-746BK-H6DGY
+
+TPYNC-4J6KF-4B4GP-2HD89-7XMP6
+
+2BXNW-6CGWX-9BXPV-YJ996-GMT6T
+
+NRTT2-86GJM-T969G-8BCBH-BDWXG
+
+XC88X-9N9QX-CDRVP-4XV22-RVV26
+
+TNM78-FJKXR-P26YV-GP8MB-JK8XG
+
+TR8NX-K7KPD-YTRW3-XTHKX-KQBP6
+
+VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+DXG7C-N36C4-C4HTG-X4T3X-2YV77
+
+
+3 输入KMS服务器地址：(4.12测试有效）      
+slmgr /skms kms.wlrxy.cn
+slmgr /skms s8.uk.to
+slmgr /skms kms.sixyin.com
+slmgr /skms kms.catqu.com
+slmgr /skms kms.cary.tech
+
+4 激活命令：
+slmgr /ato
+
+5 查看激活状态
+slmgr.vbs -xpr
+
+   Windows 11 Home                  TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+   Windows 11 Home N                 3KHY7-WNT83-DGQKR-F7HPR-844BM
+   Windows 11 Home Single Language         7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH 
+   Windows 11 Professional           W269N-WFGWX-YVC9B-4J6C9-T83GX 
+   Windows 11 Professional N           MH37W-N47XK-V7XM9-C7227-GCQG9
+   Windows 11 Cloud                              -----------------------------
+   Windows 11 Cloud N                            -----------------------------
+   Windows 11 Professional Education      6TP4R-GNPTD-KYYHQ-7B7DP-J447Y 
+   Windows 11 Professional Education N       YVWGF-BXNMC-HTQYQ-CPQ99-66QFC 
+   Windows 11 Professional For Workstation       NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J 
+   Windows 11 Professional N For Workstation     9FNHH-K3HBT-3W4TD-6383H-6XYWF 
+   Windows 11 Professional Single Language       -----------------------------   
+   Windows 11 Education            NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 
+   Windows 11 Education N           2WH4N-8QGBV-H22JP-CT43Q-MDWWJ 
+   Windows 11 Enterprise            NPPR9-FWDCX-D2C8J-H872K-2YT43   
+   Windows 11 Enterprise N              DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4 
+   Windows 11 Enterprise for Virtual Desktops    VMKVQ-3MN6B-BVM9F-YWV97-R9FCX
+
+链接：https://pan.baidu.com/s/1ef9PCJEUBXW5VE7RLlrU0w?pwd=kl8r 
+提取码：kl8r
